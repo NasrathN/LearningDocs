@@ -1,6 +1,6 @@
 # LearningDocs
 
-# Learning-1 : Was having issue during git push due to two github accounts . I got to know that , for each repository we can set git user and git email id 
+Learning-1 : Was having issue during git push due to two github accounts . I got to know that , for each repository we can set git user and git email id 
 Steps 
 - go to that directory in local
 - git config user.name "NasrathN"
